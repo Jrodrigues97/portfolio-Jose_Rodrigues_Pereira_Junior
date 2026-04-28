@@ -63,7 +63,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **A corrida do Prompt** | Dominar a tecnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo | [Ver Projeto](./Projeto1- A_corrida_do_Prompt/) |
+| **A corrida do Prompt** | Dominar a tecnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo | [Ver Projeto](./Projeto1-A_corrida_do_Prompt/) |
 
 
 | Projeto | Descrição | Link |
