@@ -73,6 +73,10 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Batalha de Modelos & Engenharia de Prompt (XML)** | Análise comparativa de LLMs para avaliar a precisão técnica e a fidelidade à estrutura de prompts em XML na geração de interfaces Front-end. | [Ver Projeto](./Projeto3-Batalha_de_Modelos_&_Engenharia_de_Prompt(XML)/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Análise comparativa de LLMs para avaliar a precisão técnica e a fidelidade à estrutura de prompts em XML na geração de interfaces Front-end. | [Ver Projeto](https://github.com/Jrodrigues97/QR-Creation)
  
 ---
  
