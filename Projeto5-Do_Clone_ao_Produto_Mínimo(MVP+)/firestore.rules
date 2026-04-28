@@ -1,0 +1,86 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // Collection: /users/{userId}
+    // Fields:
+    //   - uid: string (required, immutable) - Unique user ID
+    //   - email: string (required, immutable) - User email address
+    //   - displayName: string (optional) - User's full name
+    //   - photoURL: string (optional) - User's profile picture URL
+    //   - createdAt: timestamp (required, immutable) - When the user joined
+    //
+    // Collection: /users/{userId}/qrcodes/{qrId}
+    // Fields:
+    //   - id: string (required, immutable) - Unique QR ID
+    //   - userId: string (required, immutable) - Owner's UID
+    //   - name: string (optional) - Name given to the QR code
+    //   - options: map (required) - The configuration options for the QR code
+    //   - createdAt: timestamp (required, immutable) - When the QR was created
+    //
+    // ===============================================================
+
+    // ===============================================================
+    // Helper Functions
+    // ===============================================================
+    
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function isValidEmail(email) {
+      return email is string && email.matches("^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$");
+    }
+
+    function hasOnlyAllowedFields(fields) {
+      return request.resource.data.keys().hasOnly(fields);
+    }
+
+    // ===============================================================
+    // Domain Validators
+    // ===============================================================
+
+    function isValidUser(data) {
+      return data.uid is string && 
+             data.email is string && isValidEmail(data.email) &&
+             (data.displayName == null || data.displayName is string) &&
+             (data.photoURL == null || data.photoURL is string);
+    }
+
+    function isValidQRCode(data) {
+      return data.id is string &&
+             data.userId is string &&
+             data.options is map;
+    }
+
+    // ===============================================================
+    // Rules
+    // ===============================================================
+
+    match /users/{userId} {
+      allow read: if isOwner(userId);
+      allow create: if isOwner(userId) && isValidUser(request.resource.data);
+      allow update: if isOwner(userId) && isValidUser(request.resource.data) && 
+                      request.resource.data.uid == resource.data.uid &&
+                      request.resource.data.email == resource.data.email;
+      
+      match /qrcodes/{qrId} {
+        allow read: if isOwner(userId);
+        allow create: if isOwner(userId) && isValidQRCode(request.resource.data) && 
+                        request.resource.data.userId == userId;
+        allow update: if isOwner(userId) && isValidQRCode(request.resource.data) &&
+                        request.resource.data.userId == userId &&
+                        request.resource.data.id == resource.data.id;
+        allow delete: if isOwner(userId);
+      }
+    }
+  }
+}
