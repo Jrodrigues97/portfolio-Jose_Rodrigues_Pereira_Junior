@@ -76,7 +76,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Batalha de Modelos & Engenharia de Prompt (XML)** | Análise comparativa de LLMs para avaliar a precisão técnica e a fidelidade à estrutura de prompts em XML na geração de interfaces Front-end. | [Ver Projeto](https://github.com/Jrodrigues97/QR-Creation)
+| **Do Clone ao Produto Mínimo Viável (MVP+)** | Utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura.. | [Ver Projeto](https://github.com/Jrodrigues97/QR-Creation)
  
 ---
  
