@@ -60,15 +60,19 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | treinamento de um modelo de imagem simples em IA seguindo uma series de passos. | [Ver Projeto](./Projeto2-Laboratório_de_Classificação_Visual/) |
+| **A corrida do Prompt** | Dominar a tecnica de comunicação com modelos de linguagem (LLMs) para obter resultados de alta precisão no menor tempo | [Ver Projeto](./Projeto1-A_corrida_do_Prompt/) |
+
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Laboratório de Classificação Visual** | Treinamento de um modelo de imagem simples em IA seguindo uma series de passos. | [Ver Projeto](./Projeto2-Laboratório_de_Classificação_Visual/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Batalha de Modelos & Engenharia de Prompt (XML)** | Análise comparativa de LLMs para avaliar a precisão técnica e a fidelidade à estrutura de prompts em XML na geração de interfaces Front-end. | [Ver Projeto](./Projeto3-Batalha_de_Modelos_&_Engenharia_de_Prompt(XML)/) |
  
 ---
  
