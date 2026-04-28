@@ -68,7 +68,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Laboratório de Classificação Visual** | treinamento de um modelo de imagem simples em IA seguindo uma series de passos. | [Ver Projeto](./projeto-ia-churn/) |
+| **Laboratório de Classificação Visual** | treinamento de um modelo de imagem simples em IA seguindo uma series de passos. | [Ver Projeto](./Projeto2-Laboratório_de_Classificação_Visual/) |
  
 ---
  
