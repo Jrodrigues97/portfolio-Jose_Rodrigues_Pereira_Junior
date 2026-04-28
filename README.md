@@ -5,7 +5,7 @@
  
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email-profissional@email.com)
+[![E-mail](jrodrigues.pereira7991@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](LINK_DO_PDF_OU_SITE)
  
 ---
@@ -15,7 +15,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
  
 * **Habilidades Técnicas:** HTML, CSS, MySQL, BPMN
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
-* **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação Científica/Estágio] onde desenvolvi [resultado principal].
+* **Experiência/Projetos Relevantes:** Atuei na criação de uma site simples de vendas de curso durante a entrega final do primeiro semestre de ciencia da computação onde desenvolvi trabalho em equipe e foco no objetivo.
  
 ---
  
@@ -76,7 +76,11 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Do Clone ao Produto Mínimo Viável (MVP+)** | Utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura.. | [Ver Projeto](https://github.com/Jrodrigues97/QR-Creation)
+| **Do Clone ao Produto Mínimo Viável (MVP+)** | Utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura. | [Ver Projeto](Projeto5-Do_Clone_ao_Produto_Mínimo(MVP+))
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Engenharia de Software e IA com Bubble.io** | Desenvolvimento de um sistema de gestão escalável no Bubble.io, aplicando engenharia de software e regras de privacidade para refatorar e profissionalizar o rascunho gerado por IA. | [Ver Projeto]Projeto7-Engenharia_de_Software_e_IA_com_Bubble.io)
  
 ---
  
