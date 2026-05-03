@@ -1,0 +1,7 @@
+neumorphism-clone/
+│
+├── index.html         # Estrutura principal e semântica
+├── css/
+│   └── style.css      # Variáveis, Flexbox e Estilos Neumórficos base
+└── js/
+    └── app.js         # Lógica de cálculo de sombras e manipulação do DOM (vazio por enquanto)

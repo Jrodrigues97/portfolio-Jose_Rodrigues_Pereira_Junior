@@ -1,0 +1,310 @@
+/* =========================================
+   Variáveis Globais (Custom Properties)
+   ========================================= */
+:root {
+    --base-color: #e0e5ec; /* Cor clássica inicial do Neumorphism.io */
+    --text-color: #333333;
+    --primary-color: #2d8cf0;
+}
+
+/* =========================================
+   Reset e Configurações Base
+   ========================================= */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: var(--base-color);
+    color: var(--text-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    transition: background-color 0.3s ease; /* Transição suave ao mudar a cor */
+}
+
+/* =========================================
+   Tipografia e Cabeçalho
+   ========================================= */
+header {
+    margin-bottom: 4rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+header h1 span {
+    color: var(--primary-color);
+}
+
+/* =========================================
+   Layout Principal (2 Colunas)
+   ========================================= */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem;
+    width: 100%;
+    max-width: 1000px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+
+/* Coluna Esquerda: Visualização */
+.preview-section {
+    flex: 1;
+    min-width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* O Elemento Central (Shape) */
+.shape {
+    width: 250px;
+    height: 250px;
+    background-color: var(--base-color);
+    border-radius: 50px;
+    /* Sombra inicial hardcoded apenas para visualização do layout */
+    box-shadow: 20px 20px 60px #bec3c9, 
+               -20px -20px 60px #ffffff;
+}
+
+/* Coluna Direita: Controles */
+.controls-section {
+    flex: 1;
+    min-width: 320px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 2.5rem;
+    border-radius: 20px;
+    background-color: var(--base-color);
+    /* Leve efeito neumórfico no painel para imersão */
+    box-shadow: 9px 9px 16px var(--shadow-dark), 
+               -9px -9px 16px var(--shadow-light);
+}
+
+/* =========================================
+   Área Inferior: Código CSS
+   ========================================= */
+.code-section {
+    width: 100%;
+    max-width: 800px;
+}
+
+.code-box {
+    background-color: var(--base-color);
+    padding: 2rem;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* Sombra interna (inset) para parecer um campo "afundado" */
+    box-shadow: inset 6px 6px 10px 0 var(--shadow-dark),
+                inset -6px -6px 10px 0 var(--shadow-light);
+}
+
+pre {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    line-height: 1.5;
+    /* Substitua o color: #555; por: */
+    color: var(--text-color);
+    opacity: 0.8;
+}
+
+/* --- Botão Copiar (Cor Fixa) --- */
+.btn-neumorphic {
+    padding: 10px 25px;
+    border: none;
+    border-radius: 10px;
+    background-color: var(--primary-color); /* Fundo Azul Fixo */
+    color: #ffffff !important; /* Texto Branco Fixo */
+    font-weight: bold;
+    cursor: pointer;
+    /* Sombra padrão para destacar em qualquer fundo */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.2s ease;
+}
+
+.btn-neumorphic:hover {
+    filter: brightness(1.1); /* Fica um pouco mais claro ao passar o mouse */
+}
+
+.btn-neumorphic:active {
+    transform: translateY(2px); /* Efeito de clique (afunda levemente) */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+/* =========================================
+   Painel de Controles (UI Components)
+   ========================================= */
+.control-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.control-group label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    /* Substitua o color: #555; por: */
+    color: var(--text-color);
+    opacity: 0.9; /* Deixa levemente suave para hierarquia visual */
+}
+
+.label-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.val-display {
+    font-size: 0.85rem;
+    padding: 2px 8px;
+    border-radius: 5px;
+    /* Substitua o background e o color antigos por: */
+    color: var(--text-color);
+    background-color: transparent;
+    font-weight: bold;
+}
+
+/* --- Color Picker (À Prova de Falhas) --- */
+#color-picker {
+    width: 45px;
+    height: 45px;
+    padding: 0;
+    border: none;
+    border-radius: 10px;
+    background-color: var(--base-color);
+    cursor: pointer;
+    /* Colocamos a sombra no próprio input, garantindo que ele apareça */
+    box-shadow: 4px 4px 8px var(--shadow-dark), 
+               -4px -4px 8px var(--shadow-light);
+}
+
+/* Ajuste para Chrome, Edge e Safari */
+#color-picker::-webkit-color-swatch-wrapper {
+    padding: 6px; /* Cria uma margem interna para a cor não encostar na borda */
+}
+
+#color-picker::-webkit-color-swatch {
+    border: 1px solid rgba(0,0,0,0.1); /* Borda bem suave para destacar a cor */
+    border-radius: 5px;
+}
+
+/* Ajuste para Firefox */
+#color-picker::-moz-color-swatch {
+    border: 1px solid rgba(0,0,0,0.1);
+    border-radius: 5px;
+}
+
+#color-hex {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--base-color);
+    color: var(--text-color);
+    font-family: monospace;
+    font-size: 1rem;
+    box-shadow: inset 3px 3px 6px rgba(163, 177, 198, 0.6),
+                inset -3px -3px 6px rgba(255, 255, 255, 0.7);
+    outline: none;
+}
+
+/* --- Direção da Luz (Grid 2x2) --- */
+.light-direction-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    width: 80px;
+    margin: 0 auto;
+}
+
+.light-btn {
+    width: 35px;
+    height: 35px;
+    border: none;
+    border-radius: 8px;
+    background-color: var(--base-color);
+    cursor: pointer;
+     box-shadow: 3px 3px 6px var(--shadow-dark), 
+               -3px -3px 6px var(--shadow-light);
+    transition: all 0.2s ease;
+}
+
+.light-btn.active {
+    box-shadow: inset 3px 3px 6px var(--shadow-dark), 
+                inset -3px -3px 6px var(--shadow-light);
+    background-color: var(--primary-color);
+}
+
+/* --- Sliders (Range Inputs) --- */
+input[type=range] {
+    -webkit-appearance: none;
+    width: 100%;
+    background: transparent;
+    margin: 10px 0;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+/* Trilha do Slider */
+input[type=range]::-webkit-slider-runnable-track {
+    width: 100%;
+    height: 8px;
+    cursor: pointer;
+    background: var(--base-color);
+    border-radius: 4px;
+    box-shadow: inset 2px 2px 5px rgba(163, 177, 198, 0.6),
+                inset -2px -2px 5px rgba(255, 255, 255, 0.7);
+}
+
+/* Bolinha do Slider (Thumb) */
+input[type=range]::-webkit-slider-thumb {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: var(--base-color);
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -6px;
+    box-shadow: 2px 2px 5px rgb(163,177,198,0.8), 
+               -2px -2px 5px rgba(255,255,255, 0.8);
+}
+
+/* Suporte para Firefox */
+input[type=range]::-moz-range-track {
+    width: 100%;
+    height: 8px;
+    cursor: pointer;
+    background: var(--base-color);
+    border-radius: 4px;
+    box-shadow: inset 2px 2px 5px rgba(163, 177, 198, 0.6),
+                inset -2px -2px 5px rgba(255, 255, 255, 0.7);
+}
+
+input[type=range]::-moz-range-thumb {
+    height: 20px;
+    width: 20px;
+    border: none;
+    border-radius: 50%;
+    background: var(--base-color);
+    cursor: pointer;
+    box-shadow: 2px 2px 5px rgb(163,177,198,0.8), 
+               -2px -2px 5px rgba(255,255,255, 0.8);
+}
