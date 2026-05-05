@@ -1,4 +1,3 @@
-
 # Meet Relay Games 🎮
 
 > **A videochamada que entende o ritmo do seu jogo.**
@@ -37,14 +36,9 @@ Diferente de apps de reuniões genéricos, o **Meet Relay Games** atua como um m
 * Dispositivo Android com câmera e microfone (ou emulador configurado).
 
 ## 📱 Preview & Instalação Rápida
-Utilize o link abaixo ou o QR Code para acessar a versão gerada pela **Manus AI** e testar as funcionalidades em tempo real.
+Utilize o link abaixo o link do QR Code abaixo para acessar a versão gerada pela **Manus AI** e testar as funcionalidades em tempo real.
 
 **🔗 [Acesse o Preview do Projeto aqui](https://manus.im/app-preview/ixKvRR55RUgQMGRZ3rGgX8?sessionId=rMBuuCFAhTYkzaj6Wql1PQ))**
-
-### QR Code de Instalação
-> **Nota:** Aponte a câmera do seu celular para o código abaixo para carregar o ambiente de teste.
-
-[Inserir aqui a imagem do QR Code gerado pela Manus AI]
 
 ---
 
@@ -55,6 +49,6 @@ O processo de desenvolvimento deste aplicativo foi assistido pela **Manus AI**, 
 3.  Criação de componentes de UI personalizados para o nicho de [Seu Nicho].
 
 ---
-**Curso:** [Nome do Seu Curso]  
+**Curso:** Ciência da Computação 
 **Aula:** Integração de IA Generativa e Frameworks Open-Source  
-**Desenvolvedor:** [Seu Nome]
+**Desenvolvedor:** José Rodrigues Pereira Júnior
