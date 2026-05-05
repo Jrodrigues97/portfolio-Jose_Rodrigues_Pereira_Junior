@@ -38,7 +38,7 @@ Diferente de apps de reuniões genéricos, o **Meet Relay Games** atua como um m
 ## 📱 Preview & Instalação Rápida
 Utilize o link abaixo o link do QR Code abaixo para acessar a versão gerada pela **Manus AI** e testar as funcionalidades em tempo real.
 
-**🔗 [Acesse o Preview do Projeto aqui](https://manus.im/app-preview/ixKvRR55RUgQMGRZ3rGgX8?sessionId=rMBuuCFAhTYkzaj6Wql1PQ))**
+**🔗 [Acesse o QRCode do Projeto aqui](https://manus.im/app-preview/ixKvRR55RUgQMGRZ3rGgX8?sessionId=rMBuuCFAhTYkzaj6Wql1PQ)**
 
 ---
 
