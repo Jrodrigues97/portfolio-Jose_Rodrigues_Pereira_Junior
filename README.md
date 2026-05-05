@@ -1,5 +1,5 @@
 # José Rodrigues Pereira Júnior
-> Estudante de Ciência da Computação
+> Estudante da área de Ciência da Computação
  
 ---
  
