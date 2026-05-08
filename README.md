@@ -84,7 +84,12 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+| **SUNO IA** | Projeto de automação criativa e engenharia de prompt para geração de áudio por IA. | [Ver Projeto](Projeto6-Música_IA_SUNO))
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
 | **Engenharia de Software e IA com Bubble.io** | Desenvolvimento de um sistema de gestão escalável no Bubble.io, aplicando engenharia de software e regras de privacidade para refatorar e profissionalizar o rascunho gerado por IA. | [Ver Projeto](./Projeto7-Engenharia_de_Software_e_IA_com_Bubble.io/)
+
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
