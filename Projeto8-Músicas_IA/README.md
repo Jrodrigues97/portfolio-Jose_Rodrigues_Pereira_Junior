@@ -19,11 +19,11 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | [Arquivo MP3](./Música/Beyond_the_Untraveled_Road.mp3) |
-| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | [Arquivo MP3](./audio/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3) |
-| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | [Arquivo MP3](./Música/Koutetsu_no_Banka-Elegia_de_Aço.mp3) |
-| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | [Arquivo MP3](./Música/The_Untraveled_Resistance.mp3) |
-| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | [Arquivo MP3](./Música/Unbroken_Sequence.mp3) |
+| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | [Arquivo MP3](./Músicas/Beyond_the_Untraveled_Road.mp3) |
+| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | [Arquivo MP3](./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3) |
+| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | [Arquivo MP3](./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3) |
+| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | [Arquivo MP3](./Músicas/The_Untraveled_Resistance.mp3) |
+| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | [Arquivo MP3](./Músicas/Unbroken_Sequence.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
