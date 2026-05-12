@@ -68,10 +68,9 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 | **Batalha de Modelos & Engenharia de Prompt (XML)** | Análise comparativa de LLMs para avaliar a precisão técnica e a fidelidade à estrutura de prompts em XML na geração de interfaces Front-end. | [Ver Projeto](./Projeto3-Batalha_de_Modelos_&_Engenharia_de_Prompt(XML)/) |
 | **Engenharia Reversa** | Reconstrução técnica de um aplicativo funcional através da observação de sua interface externa e comportamento, utilizando o conceito de Vibe Coding. | [Ver Projeto](./Projeto4-Engenharia_Reversa/) |
 | **Do Clone ao Produto Mínimo Viável (MVP+)** | Utilizando IA como copiloto de desenvolvimento e o ecossistema Firebase como infraestrutura. | [Ver Projeto](Projeto5-Do_Clone_ao_Produto_Mínimo(MVP+))
-| **SUNO IA** | Projeto de automação criativa e engenharia de prompt para geração de áudio por IA. | [Ver Projeto](Projeto6-Música_IA_SUNO))
-| **Engenharia de Software e IA com Bubble.io** | Desenvolvimento de um sistema de gestão escalável no Bubble.io, aplicando engenharia de software e regras de privacidade para refatorar e profissionalizar o rascunho gerado por IA. | [Ver Projeto](./Projeto7-Engenharia_de_Software_e_IA_com_Bubble.io/)
-| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integrar tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source (Jitsi Meet) para criar uma solução funcional de videoconferência para Android, focando em usabilidade e criatividade. | [Ver Projeto](./Projeto8-Desenvolvimento_de_App_de_Videoconferência_com_Manus_AI_e_Jitsi/)
-
+| **Engenharia de Software e IA com Bubble.io** | Desenvolvimento de um sistema de gestão escalável no Bubble.io, aplicando engenharia de software e regras de privacidade para refatorar e profissionalizar o rascunho gerado por IA. | [Ver Projeto](./Projeto6-Engenharia_de_Software_e_IA_com_Bubble.io/)
+| **Desenvolvimento de App de Videoconferência com Manus AI e Jitsi** | Integrar tecnologias de Inteligência Artificial generativa (Manus AI) com frameworks de comunicação open-source (Jitsi Meet) para criar uma solução funcional de videoconferência para Android, focando em usabilidade e criatividade. | [Ver Projeto](./Projeto7-Desenvolvimento_de_App_de_Videoconferência_com_Manus_AI_e_Jitsi/)
+| **Músicas IA** | Projeto de automação criativa e engenharia de prompt para geração de áudio por IA. | [Ver Projeto](Projeto8-Músicas_IA))
  
  
 ---
