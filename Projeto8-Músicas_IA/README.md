@@ -14,16 +14,16 @@ Este projeto explora a intersecção entre criatividade humana e Inteligência A
  
 ## 🚀 Assistente Personalizado
 O assistente (Gems) utilizado para modelagem das letras pode ser acessado através do link abaixo:
-> [Link para o meu Gemini Gems](LINK_AQUI)
+> [Link para o meu Gemini Gems]([(https://gemini.google.com/gem/1HyaDovarMWyGG13AwanRUqZ-0NckzonD?usp=sharing)])
  
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | [Título 01] | [Estilo] | [Arquivo MP3](./audio/musica1.mp3) |
-| 02 | [Título 02] | [Estilo] | [Arquivo MP3](./audio/musica2.mp3) |
-| 03 | [Título 03] | [Estilo] | [Arquivo MP3](./audio/musica3.mp3) |
-| 04 | [Título 04] | [Estilo] | [Arquivo MP3](./audio/musica4.mp3) |
-| 05 | [Título 05] | [Estilo] | [Arquivo MP3](./audio/musica5.mp3) |
+| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | [Arquivo MP3](./Música/Beyond_the_Untraveled_Road.mp3) |
+| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | [Arquivo MP3](./audio/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3) |
+| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | [Arquivo MP3](./Música/Koutetsu_no_Banka-Elegia_de_Aço.mp3) |
+| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | [Arquivo MP3](./Música/The_Untraveled_Resistance.mp3) |
+| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | [Arquivo MP3](./Música/Unbroken_Sequence.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
@@ -31,4 +31,4 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 3. **Produção:** Geração das letras e posterior conversão em áudio no Suno AI, ajustando parâmetros de gênero musical e BPM.
  
 ---
-Desenvolvido por [[SEU NOME]](https://github.com/[SEU_USUARIO])
+Desenvolvido por [[José Rodrigues Pereira Júnior]](https://github.com/Jrodrigues97)
