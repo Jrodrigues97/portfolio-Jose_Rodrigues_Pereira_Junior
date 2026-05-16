@@ -18,13 +18,13 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
  
 
 ## 🎧 Músicas Geradas
-| Faixa | Título | Estilo/Referência | Ouvir |
+| Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | [Clique para Ouvir](https://media.githubusercontent.com/media/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Beyond_the_Untraveled_Road.mp3) |
-| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | [Clique para Ouvir](https://media.githubusercontent.com/media/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Fukutsu_no_Yoake-Alvorecer_Inabal%C3%A1vel.mp3) |
-| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | [Clique para Ouvir](https://media.githubusercontent.com/media/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Koutetsu_no_Banka-Elegia_de_A%C3%A7o.mp3) |
-| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | [Clique para Ouvir](https://media.githubusercontent.com/media/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/The_Untraveled_Resistance.mp3) |
-| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | [Clique para Ouvir](https://media.githubusercontent.com/media/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Unbroken_Sequence.mp3) |
+| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/Beyond_the_Untraveled_Road.mp3) |
+| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/Fukutsu_no_Yoake-Alvorecer_Inabal%C3%A1vel.mp3) |
+| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/Koutetsu_no_Banka-Elegia_de_A%C3%A7o.mp3) |
+| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/The_Untraveled_Resistance.mp3) |
+| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/Unbroken_Sequence.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
