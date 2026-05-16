@@ -18,9 +18,9 @@ A análise técnica revelou nuances significativas entre as arquiteturas de cada
 
 | Critério | Melhor Performance | Observação Técnica |
 | :--- | :--- | :--- |
-| **Compreensão XML** | [NOME_DA_IA] | Menor índice de tags ignoradas. |
-| **Precisão de CSS** | [NOME_DA_IA] | Fidelidade absoluta à paleta de cores. |
-| **Economia de Tokens**| [NOME_DA_IA] | Resposta direta sem excesso de texto explicativo. |
+| **Compreensão XML** | Claude | Menor índice de tags ignoradas. |
+| **Precisão de CSS** | Gemini, Grok, Claude| Fidelidade absoluta à paleta de cores. |
+| **Economia de Tokens**| Maritaca | Resposta direta sem excesso de texto explicativo. |
 
 ## 🔧 Como Executar
 1. Copie o código do **Prompt XML** estruturado no repositório.
@@ -29,9 +29,9 @@ A análise técnica revelou nuances significativas entre as arquiteturas de cada
 4. Compare a saída com os requisitos estritos do XML original.
 
 ## 🧠 Reflexão Crítica (Fink)
-* **Compreensão:** O modelo que demonstrou maior domínio do XML foi o [NOME], pois não tentou "corrigir" a estrutura para texto plano.
+* **Compreensão:** O modelo que demonstrou maior domínio do XML foi o Gemini e Grok, pois não tentou "corrigir" a estrutura para texto plano.
 * **Verbosidade:** Houve uma variação de até [X]% no consumo de tokens entre o modelo mais conciso e o mais prolixo.
-* **Escolha Profissional:** Para **prototipagem rápida**, a ferramenta [NOME] se destaca pela velocidade; para **códigos complexos**, a ferramenta [NOME] é superior devido à sua aderência estrita a restrições de arquitetura.
+* **Escolha Profissional:** Para **prototipagem rápida**, a ferramenta Gemini se destaca pela velocidade; para **códigos complexos**, a ferramenta Cloude é superior devido à sua aderência estrita a restrições de arquitetura.
 
 ---
 [Voltar ao início](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior)
