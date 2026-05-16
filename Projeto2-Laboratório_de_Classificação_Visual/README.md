@@ -5,8 +5,21 @@ Este projeto foi desenvolvido como um experimento prático para a disciplina de 
 
 O sistema foi treinado para distinguir entre "Perfil Liderança" e "Perfil Operacional". Contudo, utilizou-se um dataset deliberadamente enviesado para observar como a máquina replica estereótipos sociais ao realizar classificações, resultando em erros de inferência quando confrontada com a diversidade do mundo real.
 
-![Print do Erro de Classificação](CAMINHO_PARA_SEU_PRINT_AQUI)
+<img src="./Img/Erro01.jpg" alt="Print do Erro de Classificação" width="300">
+
 *Figura 1: Momento exato em que o modelo falha ao classificar um perfil que foge aos estereótipos de treinamento.*
+
+<img src="./Img/Erro02.jpg" alt="Print do Erro de Classificação" width="300">
+
+*Figura 2: Momento exato em que o modelo falha novamente ao classificar um perfil que foge aos estereótipos de treinamento.*
+
+<img src="./Img/Acerto01.jpg" alt="Print do Acerto de Classificação" width="300">
+
+*Figura 3: Momento em que o modelo executar corretamente um perfil correspondente aos estereótipos de treinamento.*
+
+<img src="./Img/Acerto02.jpg" alt="Print do Acerto de Classificação" width="300">
+
+*Figura 4: Momento em que o modelo executar corretamente um perfil correspondente aos estereótipos de treinamento.*
 
 ## 🚀 Tecnologias Utilizadas
 * **Plataforma:** Teachable Machine (Google)
