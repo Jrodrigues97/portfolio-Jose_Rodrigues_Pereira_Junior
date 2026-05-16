@@ -5,7 +5,7 @@ Este projeto consiste em uma aplicação web de gestão (Gerenciador de Orçamen
 
 O objetivo principal é mitigar as falhas comuns de IAs generativas de código, como lógicas de permissão inexistentes e falta de escalabilidade. Aplicamos fundamentos de **Privacy by Design**, governança de dados e otimização de infraestrutura para garantir que o sistema não seja apenas funcional, mas seguro e profissional.
 
-<img src="./Imagens/Menu-Principal.png" alt="Dashboard Gerado no Bubble" width="600">
+<img src="./Imagens/Menu-Principal.png" alt="Dashboard Gerado no Bubble" width="800">
 *Figura 1: Interface principal da aplicação refatorada após a geração inicial por IA.*
 
 ## 🚀 Tecnologias e Boas Práticas
@@ -21,7 +21,7 @@ O projeto demonstrou que a IA é uma excelente ferramenta de prototipagem, mas e
 * **Escalabilidade:** Substituição de listas pesadas por relações otimizadas entre tabelas.
 * **Governança:** Redução de dívida técnica através de workflows comentados e organizados cromaticamente.
 
-<img src="./Imagens/Aba-Privacy.pdf" alt="Gráfico de Consumo de WUs ou Regras de Privacidade" width="600">
+<img src="./Imagens/Aba-Privacy.png" alt="Gráfico de Consumo de WUs ou Regras de Privacidade" width="800">
 *Figura 2: Configuração das regras de privacidade para proteção contra vazamento de dados.*
 
 ## 🔧 Como Executar
@@ -30,7 +30,7 @@ O projeto demonstrou que a IA é uma excelente ferramenta de prototipagem, mas e
 3. Teste a criação de registros (orçamentos/pedidos).
 4. Tente acessar dados de outro usuário (o sistema deve bloquear via Regras de Privacidade).
 
-![Organização de Workflows](IMAGEM_3_AQUI)
+<img src="./Imagens/Aba-Workflows.png" alt="Organização de Workflows" width="800">
 *Figura 3: Pipeline de automação com cores organizadas e notas explicativas.*
 
 ## 🛡️ Estratégia de Saída (Vendor Lock-in)
