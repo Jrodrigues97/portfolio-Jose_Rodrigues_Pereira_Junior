@@ -5,7 +5,7 @@ Este projeto consiste em uma aplicação web de gestão (Gerenciador de Orçamen
 
 O objetivo principal é mitigar as falhas comuns de IAs generativas de código, como lógicas de permissão inexistentes e falta de escalabilidade. Aplicamos fundamentos de **Privacy by Design**, governança de dados e otimização de infraestrutura para garantir que o sistema não seja apenas funcional, mas seguro e profissional.
 
-![Dashboard Gerado no Bubble](IMAGEM_1_AQUI)
+<img src="./Imagens/Menu-Principal.png" alt="Dashboard Gerado no Bubble" width="600">
 *Figura 1: Interface principal da aplicação refatorada após a geração inicial por IA.*
 
 ## 🚀 Tecnologias e Boas Práticas
@@ -25,7 +25,7 @@ O projeto demonstrou que a IA é uma excelente ferramenta de prototipagem, mas e
 *Figura 2: Configuração das regras de privacidade para proteção contra vazamento de dados.*
 
 ## 🔧 Como Executar
-1. Acesse o aplicativo através do [Link da Versão de Teste](SUA_URL_AQUI).
+1. Acesse o aplicativo através do [Link da Versão de Teste](https://jrodriguespereira7991-67338.bubbleapps.io/version-test?debug_mode=true).
 2. Realize o cadastro de um novo usuário.
 3. Teste a criação de registros (orçamentos/pedidos).
 4. Tente acessar dados de outro usuário (o sistema deve bloquear via Regras de Privacidade).
