@@ -35,7 +35,7 @@ Abaixo, detalhamos o ciclo de **Avaliação e Integração** utilizado para atin
 
 ### 🎨 Desafio 2: A Imagem do Astronauta
 
-![Astronauta Barroco em Marte](/Img/Astronauta-Barroco-em-Marte.png)
+![Astronauta Barroco em Marte](./Img/Astronauta-Barroco-em-Marte.png)
 *Figura 1: Representação visual do astronauta barroco tocando violoncelo em chamas.*
 
 **Prompt Final Utilizado:**
