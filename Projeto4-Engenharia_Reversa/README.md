@@ -5,8 +5,8 @@ Este projeto consiste na reconstrução técnica de um aplicativo funcional atra
 
 Desenvolvido como parte da prática de **Engenharia de Software**, o sistema utiliza o **Google AI Studio** para processar instruções lógicas detalhadas e gerar uma solução Full-Stack completa. O processo envolve o mapeamento visual, a definição de diretrizes no sistema (System Instructions) e ciclos de refinamento para garantir que o comportamento e a estética sejam idênticos à referência.
 
-![Preview da Interface Reconstruída]
-*Figura 1: Dashboard do aplicativo gerado através de engenharia reversa assistida por IA.*
+<img src="./Img/Neumorphism.io.png" alt="Preview da Interface Reconstruída" width="800">
+*Figura 1: Imagem do aplicativo original que sera usado como base, gerado uma cópia através de engenharia reversa assistida por IA.*
 
 ## 🚀 Tecnologias Utilizadas
 * **Linguagens:** HTML5, CSS3 (com foco em Neumorfismo/Glassmorfismo) e JavaScript (Vanilla).
@@ -20,16 +20,13 @@ O projeto demonstrou a viabilidade do desenvolvimento assistido por IA quando gu
 * **Engenharia de Prompt:** Aprendi a estruturar instruções de sistema para definir arquiteturas de arquivos separadas e comportamentos de eventos em JS.
 * **Refinamento Iterativo:** Implementei correções pontuais em layouts responsivos e fluxos de dados que a IA inicialmente gerou de forma genérica.
 
-![Gráfico de Comparação ou Fluxo de IA]
-*Figura 2: Ciclo de refinamento entre a instrução lógica e a validação do código.*
-
 ## 🔧 Como Executar
 1. Clone o repositório.
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 3. Não é necessário instalar dependências externas, pois o sistema utiliza tecnologias nativas (Web Standards).
 
-![Demonstração do Fluxo de Dados]
-*Figura 3: Representação visual do pipeline de desenvolvimento: Analisa -> Configura -> Constrói.*
+<img src="./Img/ImagemExemplo.png" alt="Demonstração do Fluxo de Dados" width="800">
+*Figura 2: Representação visual do pipeline de desenvolvimento: Analisa -> Configura -> Constrói.*
 
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-repositorio)
+[Voltar ao início](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior)
