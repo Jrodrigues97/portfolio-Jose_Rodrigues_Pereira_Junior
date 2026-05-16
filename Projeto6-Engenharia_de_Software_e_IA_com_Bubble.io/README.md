@@ -39,4 +39,4 @@ Como o Bubble retém a posse do código-fonte, a estratégia para mitigar o risc
 2.  **Exportação via CSV/JSON:** Planejamento de migração de tabelas de Usuários e Registros para um banco de dados externo (PostgreSQL/Node.js) caso o sistema precise ser reescrito em código tradicional no futuro.
 
 ---
-[Voltar ao início](https://github.com/seu-usuario/seu-repositorio)
+[Voltar ao início](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior)
