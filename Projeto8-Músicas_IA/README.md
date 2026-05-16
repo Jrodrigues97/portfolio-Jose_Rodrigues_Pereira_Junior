@@ -18,13 +18,13 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
  
 
 ## 🎧 Músicas Geradas
-| Faixa | Título | Estilo/Referência | Player de Áudio |
+| Faixa | Título | Estilo/Referência | Player / Opções |
 | :--- | :--- | :--- | :--- |
-| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge |[Arquivo MP3] <audio controls><source src="./Músicas/Beyond_the_Untraveled_Road.mp3" type="audio/mpeg"></audio> |
-| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock |[Arquivo MP3] <audio controls><source src="./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3" type="audio/mpeg"></audio> |
-| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | [Arquivo MP3]<audio controls><source src="./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3" type="audio/mpeg"></audio> |
-| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge |[Arquivo MP3] <audio controls><source src="./Músicas/The_Untraveled_Resistance.mp3" type="audio/mpeg"></audio> |
-| 05 | Unbroken Sequence | Rock Alternative / Hard Rock |[Arquivo MP3] <audio controls><source src="./Músicas/Unbroken_Sequence.mp3" type="audio/mpeg"></audio> |
+| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | <audio controls><source src="./Músicas/Beyond_the_Untraveled_Road.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Beyond_the_Untraveled_Road.mp3) |
+| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | <audio controls><source src="./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3) |
+| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | <audio controls><source src="./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3) |
+| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | <audio controls><source src="./Músicas/The_Untraveled_Resistance.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/The_Untraveled_Resistance.mp3) |
+| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | <audio controls><source src="./Músicas/Unbroken_Sequence.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Unbroken_Sequence.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
