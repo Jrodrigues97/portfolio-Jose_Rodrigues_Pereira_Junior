@@ -52,3 +52,5 @@ O processo de desenvolvimento deste aplicativo foi assistido pela **Manus AI**, 
 **Curso:** Ciência da Computação 
 **Aula:** Integração de IA Generativa e Frameworks Open-Source  
 **Desenvolvedor:** José Rodrigues Pereira Júnior
+
+[Voltar ao início](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior)
