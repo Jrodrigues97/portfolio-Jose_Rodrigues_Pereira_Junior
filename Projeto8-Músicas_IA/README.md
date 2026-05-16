@@ -18,13 +18,13 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
  
 
 ## 🎧 Músicas Geradas
-| Faixa | Título | Estilo/Referência | Player / Opções |
-| :--- | :--- | :--- | :--- |
-| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | <audio controls><source src="./Músicas/Beyond_the_Untraveled_Road.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Beyond_the_Untraveled_Road.mp3) |
-| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | <audio controls><source src="./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3) |
-| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | <audio controls><source src="./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3) |
-| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | <audio controls><source src="./Músicas/The_Untraveled_Resistance.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/The_Untraveled_Resistance.mp3) |
-| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | <audio controls><source src="./Músicas/Unbroken_Sequence.mp3" type="audio/mpeg"></audio><br>[📥 Baixar Arquivo](./Músicas/Unbroken_Sequence.mp3) |
+| Faixa | Título | Estilo/Referência | Arquivo Git | Baixar Música |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge |[Arquivo MP3](./Músicas/Beyond_the_Untraveled_Road.mp3) | [Download MP3](https://raw.githubusercontent.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Beyond_the_Untraveled_Road.mp3) |  
+| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock |[Arquivo MP3](./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3) | [Download MP3](https://raw.githubusercontent.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Fukutsu_no_Yoake-Alvorecer_Inabal%C3%A1vel.mp3) | 
+| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo |[Arquivo MP3](./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3) | [Download MP3](https://raw.githubusercontent.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Koutetsu_no_Banka-Elegia_de_A%C3%A7o.mp3) | 
+| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge |  [Arquivo MP3](./Músicas/The_Untraveled_Resistance.mp3) |[Download MP3](https://raw.githubusercontent.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/The_Untraveled_Resistance.mp3) |
+| 05 | Unbroken Sequence | Rock Alternative / Hard Rock |  [Arquivo MP3](./Músicas/Unbroken_Sequence.mp3) |[Download MP3](https://raw.githubusercontent.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/main/Projeto8-M%C3%BAsicas_IA/M%C3%BAsicas/Unbroken_Sequence.mp3) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
