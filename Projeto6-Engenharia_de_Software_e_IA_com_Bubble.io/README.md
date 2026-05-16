@@ -21,7 +21,7 @@ O projeto demonstrou que a IA é uma excelente ferramenta de prototipagem, mas e
 * **Escalabilidade:** Substituição de listas pesadas por relações otimizadas entre tabelas.
 * **Governança:** Redução de dívida técnica através de workflows comentados e organizados cromaticamente.
 
-![Gráfico de Consumo de WUs ou Regras de Privacidade](IMAGEM_2_AQUI)
+<img src="./Imagens/Aba-Privacy.pdf" alt="Gráfico de Consumo de WUs ou Regras de Privacidade" width="600">
 *Figura 2: Configuração das regras de privacidade para proteção contra vazamento de dados.*
 
 ## 🔧 Como Executar
