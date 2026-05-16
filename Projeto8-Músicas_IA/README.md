@@ -18,13 +18,13 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
  
 
 ## 🎧 Músicas Geradas
-| Faixa | Título | Estilo/Referência | Link do Áudio |
+| Faixa | Título | Estilo/Referência | Player de Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | (https://github.com/user-attachments/files/27839912/Beyond_the_Untraveled_Road.mp3)|
-| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/Fukutsu_no_Yoake-Alvorecer_Inabal%C3%A1vel.mp3) |
-| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/Koutetsu_no_Banka-Elegia_de_A%C3%A7o.mp3) |
-| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/The_Untraveled_Resistance.mp3) |
-| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | [Ouvir Áudio](https://github.com/Jrodrigues97/portfolio-jose-rodrigues-pereira-junior/assets/Unbroken_Sequence.mp3) |
+| 01 | Beyond the Untraveled Road | Hard Rock / Post-Grunge | <audio controls><source src="./Músicas/Beyond_the_Untraveled_Road.mp3" type="audio/mpeg"></audio> |
+| 02 | Fukutsu no Yoake - Alvorecer Inabalável | J-Pop / J-Rock | <audio controls><source src="./Músicas/Fukutsu_no_Yoake-Alvorecer_Inabalável.mp3" type="audio/mpeg"></audio> |
+| 03 | Koutetsu no Banka - Elegia de Aço | J-Rock Progressivo / Metal Alternativo | <audio controls><source src="./Músicas/Koutetsu_no_Banka-Elegia_de_Aço.mp3" type="audio/mpeg"></audio> |
+| 04 | The Untraveled Resistance | Hard Rock / Post-Grunge | <audio controls><source src="./Músicas/The_Untraveled_Resistance.mp3" type="audio/mpeg"></audio> |
+| 05 | Unbroken Sequence | Rock Alternative / Hard Rock | <audio controls><source src="./Músicas/Unbroken_Sequence.mp3" type="audio/mpeg"></audio> |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
